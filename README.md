@@ -15,13 +15,14 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+AI-powered+web+applications;React+%7C+Node.js+%7C+Python+%7C+Django+%7C+AWS;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG"/>
+
 
 <br/>
 
-<br><br>
+<br>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivaraj-dev-codes&label=Profile+Views&color=7c3aed&style=flat-square)
