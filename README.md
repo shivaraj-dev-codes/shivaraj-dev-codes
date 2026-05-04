@@ -38,7 +38,7 @@ class ShivarajuHN:
     def __init__(self):
         self.name        = "Shivaraju H N"
         self.role        = "Full Stack Developer & Software Engineer"
-        self.location    = "India 🇮🇳"
+        self.location    = "India"
         self.focus       = ["AI-Powered Apps", "Web Scalability", "Automation"]
         self.stack       = {
             "frontend"  : ["React", "Vue.js", "HTML5", "CSS3", "JavaScript"],
@@ -164,28 +164,6 @@ class ShivarajuHN:
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivarajuhn078@gmail.com)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
