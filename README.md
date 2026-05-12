@@ -46,6 +46,7 @@ class ShivarajuHN:
             "database"  : ["MySQL", "MongoDB", "PostgreSQL"],
             "cloud"     : ["AWS", "Azure", "Docker"],
             "ml"        : ["TensorFlow", "NumPy", "Pandas"],
+            "ai"        : ["openAI API","claudeAI APT","longChain","RAG","LLMs","NLP"],
         }
         self.mission     = "Build real-world impactful software, one commit at a time."
 
