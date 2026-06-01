@@ -158,7 +158,4 @@ class ShivarajuHN:
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivaraju-hn-744823374)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivarajuhn078@gmail.com)
 
-</div>
-
-
-
+</div> 
