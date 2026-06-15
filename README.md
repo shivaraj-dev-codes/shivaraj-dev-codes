@@ -98,8 +98,10 @@ class ShivarajuHN:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivaraj-dev-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=shivaraj-dev-codes&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shivaraj-dev-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/> -->
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=shivaraj-dev-codes&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/> -->
+
+<br/>
 
 <br/>
 
@@ -107,7 +109,7 @@ class ShivarajuHN:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivaraj-dev-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shivaraj-dev-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/> -->
 
 </div>
 
