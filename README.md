@@ -40,7 +40,8 @@ class ShivarajuHN:
             "database"  : ["MySQL", "MongoDB", "PostgreSQL"],
             "cloud"     : ["AWS", "Azure", "Docker"],
             "ml"        : ["TensorFlow", "NumPy", "Pandas"],
-            "ai"        : ["openAI API","claudeAI APT","longChain","RAG","LLMs","NLP"],
+            "ai"        : ["openAI API","claudeAI APT","longChain","RAG","LLMs","NLP","Evals", "Guardrails",],
+            "forward deployment": [ "Product Sense", "Solution Design", "Client Discovery", "Rapid Prototyping" ],
         }
         self.mission     = "Build real-world impactful software, one commit at a time."
 
