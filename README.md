@@ -114,35 +114,11 @@ class ShivarajuHN:
 </div>
 
 ---
+<!-- <div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaraj-dev-codes&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/> -->
 
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shivaraj-dev-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/> -->
-<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=shivaraj-dev-codes&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/> -->
-
-<br/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj-dev-codes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="45%" alt="Top Languages"/>
-
-<br/>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=shivaraj-dev-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/> -->
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaraj-dev-codes&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
+<!-- </div> -->
 
 ---
 
